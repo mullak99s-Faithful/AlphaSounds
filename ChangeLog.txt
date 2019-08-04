@@ -4,3 +4,9 @@
 | - Version 1.0 - |
 
 - Initial Release
+
+-------------------
+| - Version 1.0.1 - |
+
+- Removed click.ogg (dispenser sound goes too far)
+
