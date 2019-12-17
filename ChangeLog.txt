@@ -10,3 +10,7 @@
 
 - Removed click.ogg (dispenser sound goes too far)
 
+-------------------
+| - Version 1.0.1 - |
+
+- Bumped pack_format version to remove 'Incompatible' warning
