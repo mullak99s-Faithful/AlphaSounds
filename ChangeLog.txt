@@ -14,3 +14,8 @@
 | - Version 1.0.2 - |
 
 - Bumped pack_format version to remove 'Incompatible' warning
+
+-------------------
+| - Version 1.0.3 - |
+
+- Added trapdoor sounds
