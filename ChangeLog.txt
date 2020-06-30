@@ -21,6 +21,6 @@
 - Added trapdoor sounds
 
 -------------------
-| - Version 1.1.0- |
+| - Version 1.1 - |
 
 - Replaced new 1.16 sounds
