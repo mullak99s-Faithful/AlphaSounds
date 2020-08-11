@@ -24,3 +24,8 @@
 | - Version 1.1 - |
 
 - Replaced new 1.16 sounds
+
+---------------------
+| - Version 1.1.1 - |
+
+- Bumped pack_format version to remove 'Incompatible' warning
