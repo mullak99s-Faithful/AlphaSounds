@@ -2,7 +2,7 @@
 
 Resource Pack to bring back Alpha-Era ingame sounds
 
-**Current Branch Version:** _v1.2-S210214-1_  
+**Current Branch Version:** _v1.2_  
 
 ## Branch Breakdown
 
