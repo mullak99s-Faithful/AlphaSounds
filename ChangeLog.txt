@@ -5,17 +5,17 @@
 
 - Initial Release
 
--------------------
+---------------------
 | - Version 1.0.1 - |
 
 - Removed click.ogg (dispenser sound goes too far)
 
--------------------
+---------------------
 | - Version 1.0.2 - |
 
 - Bumped pack_format version to remove 'Incompatible' warning
 
--------------------
+---------------------
 | - Version 1.0.3 - |
 
 - Added trapdoor sounds
@@ -27,5 +27,15 @@
 
 ---------------------
 | - Version 1.1.1 - |
+
+- Bumped pack_format version to remove 'Incompatible' warning
+
+-------------------
+| - Version 1.2 - |
+
+- Replaced new 1.17 sounds
+
+---------------------
+| - Version 1.2.1 - |
 
 - Bumped pack_format version to remove 'Incompatible' warning
