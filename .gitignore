@@ -8,6 +8,10 @@
 *.rar
 *.tar
 *.zip
+*.temp.txt
+*.ps1
+*.bat
+*.exe
 
 # OS generated files #
 ######################
@@ -26,3 +30,6 @@ Thumbs.db
 *.cfg
 *.log
 *.psd
+*.exe
+*.bat
+*.log
